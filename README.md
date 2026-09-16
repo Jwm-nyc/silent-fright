@@ -10,8 +10,10 @@
 
 ### ▶ Watch the demo
 
-A ~40-second in-engine run, from sneaking through the dark wreck to being caught:
+A ~30-second in-engine run, from sneaking through the dark wreck to being caught:
 **[SilentFright-demo.mp4](SilentFright-demo.mp4)** (click to play).
+
+*Wishlisting soon on Steam. Store graphics, capsules, and the trailer are in [`steam-assets/`](steam-assets/).*
 
 ---
 
