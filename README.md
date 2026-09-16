@@ -4,6 +4,15 @@
 
 *In development for PC (Steam) · Made by Jeremy Marshall · Built with Unity 6*
 
+> ☁️ **Cloud plan: Amazon Web Services (AWS).** The plan is to build Silent Fright's online
+> multiplayer backend and hosting on AWS, and to run development, builds, and automated
+> verification in the cloud on AWS.
+
+### ▶ Watch the demo
+
+A ~40-second in-engine run, from sneaking through the dark wreck to being caught:
+**[SilentFright-demo.mp4](SilentFright-demo.mp4)** (click to play).
+
 ---
 
 ![The cargo hold, lit only by failing work lamps](screenshots/cargo-hold.png)
@@ -105,8 +114,9 @@ judge how it feels, adjust, and only then move on. A few things keep that loop h
 - **Input:** full controller support (built and tested on an Xbox controller) alongside
   keyboard and mouse.
 - **Planned networking:** peer-hosted, host-authoritative online co-op with proximity voice.
-- **Built on Microsoft Azure.** Development, builds, and automated verification all run on an
-  Azure virtual machine with GPU, so the whole pipeline lives in the cloud.
+- **Cloud plan: Amazon Web Services (AWS).** The plan is to build Silent Fright's online
+  multiplayer backend and hosting on AWS, and to run development, builds, and automated
+  verification in the cloud on AWS.
 
 ## A note on the source
 
